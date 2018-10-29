@@ -1,0 +1,8 @@
+Implement a global alignment for THREE sequences
+? 16S rRNA, Borrelia bissettii DN127
+? 16S rRNA, Borrelia afzelii PKo
+? 16S rRNA, Borrelia burgdorferi B31
+? 
+Score: number of matched nucleotides in a column
+? 
+Gap: do not consider affine gap penalty
